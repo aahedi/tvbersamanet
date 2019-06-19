@@ -24,7 +24,7 @@
 <plugin name="cordova-android-support-gradle-release"/>
 <plugin name="cordova-plugin-enable-multidex"/>
 <plugin name="cordova-plugin-device" spec="2.0.2"/>
-<plugin name="cordova-plugin-compat"/>
+<!--<plugin name="cordova-plugin-compat"/>-->
 <plugin name="cordova-plugin-file" spec="6.0.1"/>
 <plugin name="cordova-plugin-file-transfer" spec="1.7.1"/>
 <plugin name="cordova-plugin-inappbrowser" spec="3.0.0"/>
@@ -40,7 +40,7 @@
 <plugin name="cordova-plugin-file-opener2" spec="https://github.com/pwlin/cordova-plugin-file-opener2.git"/>
 <plugin name="cordova-plugin-media-capture" spec="3.0.2"/>
 <plugin name="cordova-plugin-screenrecord"/>
-<plugin name="cordova-plugin-background-mode"/>
+<!--<plugin name="cordova-plugin-background-mode"/>-->
 <plugin name="cordova-plugin-android-permissions"/>
 <plugin name="cordova-plugin-insomnia" spec="https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git"/>
 <plugin name="cordova-diagnostic-plugin" spec="https://github.com/dpa99c/cordova-diagnostic-plugin.git"/>
