@@ -36,12 +36,12 @@
 <plugin name="cordova-plugin-geolocation" spec="4.0.1"/>
 <plugin name="cordova-plugin-mediascanner"/>
 <plugin name="cordova-plugin-gallery-refresh"/>
-<plugin name="cordova-plugin-fullscreen" spec="https://github.com/mesmotronic/cordova-plugin-fullscreen.git"/>
-<plugin name="cordova-plugin-file-opener2" spec="https://github.com/pwlin/cordova-plugin-file-opener2.git"/>
 <plugin name="cordova-plugin-media-capture" spec="3.0.2"/>
 <plugin name="cordova-plugin-screenrecord"/>
 <plugin name="cordova-plugin-background-mode"/>
 <!--<plugin name="cordova-plugin-android-permissions"/>
+<plugin name="cordova-plugin-fullscreen" spec="https://github.com/mesmotronic/cordova-plugin-fullscreen.git"/>
+<plugin name="cordova-plugin-file-opener2" spec="https://github.com/pwlin/cordova-plugin-file-opener2.git"/>
 <plugin name="cordova-plugin-insomnia" spec="https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin.git"/>
 <plugin name="cordova-diagnostic-plugin" spec="https://github.com/dpa99c/cordova-diagnostic-plugin.git"/> -->
 <platform  name="ios">
